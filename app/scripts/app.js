@@ -1,1 +1,1 @@
-var blocJams = angular.module('blocJams', []);
+var myAppModule = angular.module('blocJams', []);
